@@ -1,0 +1,30 @@
+What is the total revenue and number of calls?
+Total Revenue: 96,623 units
+Total Calls: 1,000
+
+How do calls vary across months and weekdays?
+Monthly Variation: March (31 calls) and October (24 calls) have the highest call volume, while August (7 calls) and May (8 calls) are the lowest.
+Weekday Distribution: Details on specific weekdays are limited in the dashboard, but pivot results show calls occur on all days, with possible peaks on weekends.
+
+Which representatives perform best?
+Highest Call Volume: R02 (218 calls)
+Highest Revenue: R03 (20,872 units)
+Reps R02, R03, and R05 contribute most to both calls and revenue.
+
+What is the gender distribution by city?
+Data suggests Cleveland and Columbus have the largest call volumes. Gender breakdown is mentioned but not fully extracted in this summary.
+
+Which cities contribute the most?
+Most Calls: Cleveland (389 calls), Columbus (335 calls), Cincinnati (276 calls).
+Most Revenue: Revenue largely mirrors call volume, with Cleveland and Columbus on top.
+
+How are calls distributed by rating?
+Good Service Quality: 73% of calls rated 4 or 5 (high satisfaction); only 5% rated 2 (low satisfaction).
+Call Ratings: 5-star (51 calls), 4-star (95), 3-star (44), 2-star (10).
+
+Simple Insights
+Top agents (R02, R03) drive both calls and revenue—reward or model their practices.
+Focus additional resources in busy months (March, October) to maintain service quality.
+Most customers are satisfied, but watch for low ratings and address any complaints swiftly.
+Cleveland and Columbus cities are major sources of calls and revenue; target marketing or staffing here for growth.
+
