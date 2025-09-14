@@ -1,0 +1,11 @@
+Ferns N Petals (FNP) wants to analyze 2023 sales to understand trends, customer behavior, and product performance across occasions (Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, Anniversaries, etc.). Build a dashboard that answers:
+1.	Total Revenue
+2.	Average Order-to-Delivery Time
+3.	Monthly Sales Performance (2023)
+4.	Top Products by Revenue
+5.	Average Customer Spend
+6.	Sales trend of Top-5 Products
+7.	Top 10 Cities by Orders
+8.	Relationship: Order Quantity vs Delivery Time
+9.	Revenue by Occasion
+10.	Product Popularity by Occasion
