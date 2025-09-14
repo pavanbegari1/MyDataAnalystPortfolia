@@ -1,0 +1,20 @@
+Key Insights 
+•	Total Revenue (2023): ₹3,520,984
+•	Delivery Time: Avg ≈ 5.53 hours (median 5.0). Delivery is generally consistent and fast.
+•	Orders in 2023: 1,000 unique orders in the dataset.
+•	Avg Spend per Customer: ₹35,209.84 (note: this is dataset-level average; per-customer distribution may be skewed by repeat buyers).
+•	Quantity vs Delivery Time: Near-zero correlation (r ≈ 0.003) → larger order quantities do not slow deliveries in a meaningful way.
+Monthly Sales Performance (2023)
+I’ve shared an interactive table with month-wise Revenue and Orders so you can spot peaks and troughs quickly (open the table titled “Monthly Sales Performance (2023)”).
+Top Products by Revenue
+Open “Top 10 Products by Revenue” to see the exact ranking (Revenue, Orders, Quantity).
+→ Use these for spotlight sections, bundles, and upsell placements.
+Top 10 Cities by Orders
+See “Top 10 Cities by Orders”.
+→ Prioritize these cities for faster delivery SLAs, locality-specific offers, and targeted ads.
+Revenue by Occasion
+Open “Revenue by Occasion”.
+→ This reveals which occasions contribute the most revenue. Focus campaigns and inventory for the top occasions; craft contingency promos for the weaker ones.
+Product Popularity by Occasion
+Open “Top Products by Occasion (Top 3 each)” to see which items resonate per occasion.
+→ Use this for occasion-specific bundles, homepage tiles, and email subject lines (e.g., “Top Valentine’s Roses + Chocolates”).
