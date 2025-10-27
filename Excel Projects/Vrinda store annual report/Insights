@@ -1,0 +1,18 @@
+Insights:
+Annual Sales Report Insights
+1.	Sales vs Orders Comparison
+•	Create a line/bar chart to visually compare total sales and order counts for the year.
+2.	Month with Highest Sales/Orders
+•	Identify the peak month (e.g., December) and report total sales and order figures for that month.
+3.	Who Purchased More in 2022 – Men or Women?
+•	Analyze by gender; indicate whether men or women placed more orders (e.g., Women made 55% of purchases).
+4.	Different Order Statuses in 2022
+•	Summarize order status distribution, such as delivered, cancelled, and returned; show this with a pie chart or tally.
+5.	Top 10 States by Sales
+•	List states ranked by sales, displaying their contribution with a simple table.
+6.	Age and Gender Relation to Orders
+•	Show a summary or scatter plot relating age groups and gender to number of orders; e.g., younger females placed the most orders.
+7.	Maximum Contribution Sales Channel
+•	Highlight the sales channel (such as Online, In-store, or other) that contributed the highest sales volume.
+8.	Highest Selling Product Category
+•	Identify the product category that achieved the maximum sales for 2022 (e.g., Electronics).
